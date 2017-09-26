@@ -1,5 +1,5 @@
 
-# A pesquisa em Ecologia no Brasil: reprodutibilidade e o impacto de Open Data  
+# A pesquisa em Ecologia no Brasil: reprodutibilidade e o impacto do _Open Data_  
 ### Orientador: [Marcos Vinicius Carneiro Vital](https://github.com/marcosvital)  
 ### Orientada: [Daisy Jorge Lima](https://github.com/DaiJorge/-Daisy-Jorge-)  
 
